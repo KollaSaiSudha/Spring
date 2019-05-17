@@ -1,0 +1,4 @@
+Step 1: install maven plugin.
+Step 2: Properties->advanced system settings->environment variables->system variables->path->add the maven path.
+Step 3: check whether settings.xml is there or not. if not add in m2 folder in users.
+Step 4: In spring tool4 suite-> create a maven project->right click ->run as->maven clean after that maven install.
